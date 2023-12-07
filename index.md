@@ -21,4 +21,4 @@ My GitHub page is http://github.com/MichelleAg54
 
 * Lab 12
 
-    Lab 12, I have to say, is probably my favorite lab that we did. My partner and I were able to create animation for the first time, and honestly it was just super satisfying seeing all the knowledge we gained in the past labs come together in this lab. 
+    Lab 12, I have to say, is probably my favorite lab that we did. My partner and I were able to create animation for the first time, and honestly it was just super satisfying seeing all the knowledge we gained in the past labs come together in this lab. Plus, I was also able to gain some more knowledge such as how to combine red, green, and blue channels and the images into a GIF. Overall, it was just a super fun lab and the end result was amazing.
